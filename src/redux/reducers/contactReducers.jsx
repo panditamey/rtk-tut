@@ -7,4 +7,6 @@ const contactReducer = {
     state.splice(index, 1);
   },
 };
+
+// export const { addContact, deleteContact } = contactReducer;
 export default contactReducer;
