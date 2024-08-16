@@ -18,3 +18,5 @@ let contacts = [
         "phone": "1234567893"
     }
 ]
+
+export default contacts;
